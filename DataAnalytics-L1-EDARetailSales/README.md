@@ -27,8 +27,7 @@ DataAnalytics-L1-EDARetailSales/
 │   ├── correlation_matrix.png
 │   ├── discount_vs_profit_margin_by_payment.png
 │   └── payment_method_summary_table.png
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ## Tech Stack
